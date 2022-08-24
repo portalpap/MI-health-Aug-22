@@ -30,14 +30,12 @@ transition: all 0.1s 0s ease-in-out, all 0.25s 0s ease;
     transform:scale(40px);
     border-color: var(--col1);
 }
-
 ul{
     position: absolute;
     right: 10px;
     margin: 21px;
     
 }
-
 .header{
     background-color: rgb(255, 255, 255);
     display: flex;
